@@ -5,6 +5,7 @@
 PHP로 구성되어 있으며, Post 데이터 전송을 할 수 있는 언어면 전부 가능합니다.
 
 아래의 슬랙 공식 가이드 문서를 참고하여 작성되었습니다. 
+
 https://api.slack.com/methods/chat.postMessage
 
 
