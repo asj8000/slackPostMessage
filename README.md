@@ -12,9 +12,7 @@ https://api.slack.com/methods/chat.postMessage
 
 # 블로그 게시물과 연관되어 있는 내용입니다.
 
-//포스팅 후 링크 추가 예정
-
-tistory.......
+https://asj8000.tistory.com/entry/%EC%8A%AC%EB%9E%99-%EB%A9%94%EC%8B%9C%EC%A7%80-%EB%B0%9C%EC%86%A1-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0
 
 <br>
 
